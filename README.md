@@ -1,5 +1,5 @@
 # yaga_html
-yaga browser html tokenizer and parser, and shows using fltk
+yaga browser html tokenizer and parser and shows using fltk
 
 only supports <div> and <p>, feel free edit to whatever you want
 # building
